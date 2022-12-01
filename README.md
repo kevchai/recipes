@@ -1,3 +1,3 @@
 # recipes
 
-This is an extremely basic HTML-only website that displays a range of common Christmas dinner recipes.
+This is a basic HTML-only website that displays some common Christmas dinner recipes.
